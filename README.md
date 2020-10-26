@@ -1,5 +1,3 @@
 # learning
 
 Learning stuff
-
-fsd
