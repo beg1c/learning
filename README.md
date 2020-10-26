@@ -1,3 +1,3 @@
 # learning
 
-Learning stuff
+just learning computer science
